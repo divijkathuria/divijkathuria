@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **kathuriadivij@gmail.com**
 
-- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1iFGKM8bKFeKUQwBV0RrW1gcaQHTZwiry/view?usp=sharing)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1VI3mQ_nfJCI-kk9EVBr7RAJYer2S21OW/view?usp=sharing)
 
 - ⚡ Fun fact **I love learning new things.**
 
