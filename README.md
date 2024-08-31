@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm DIVIJ KATHURIA</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🔭 I’m currently working on **Computerized Inputs through Brain Waves using EEGs**
+- 🔭 I’m currently working on **Real time chat application**
   
 - 👀 I’m currently doing **BTECH in Computer Science from VIT Chennai**
   
@@ -9,9 +9,9 @@
 
 - 👯 I’m looking to collaborate on **Fullstack Projects**
 
-- 💬 Ask me about **JavaScript,React,Node.js,AWS, and any general software development questions.**
+- 💬 Ask me about **Java,DSA,JavaScript,React,Node.js and any general software development questions.**
 
-- 📫 How to reach me **0001patelom@gmail.com**
+- 📫 How to reach me **kathuriadivij@gmail.com**
 
 - 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1iFGKM8bKFeKUQwBV0RrW1gcaQHTZwiry/view?usp=sharing)
 
