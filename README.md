@@ -5,8 +5,6 @@
   
 - 👀 I’m currently doing **BTECH in Computer Science from VIT Chennai**
   
-- 🌱 I’m currently learning **Flutter and AWS**
-
 - 👯 I’m looking to collaborate on **Fullstack Projects**
 
 - 💬 Ask me about **Java,DSA,JavaScript,React,Node.js and any general software development questions.**
